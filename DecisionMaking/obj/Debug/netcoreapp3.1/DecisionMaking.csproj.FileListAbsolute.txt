@@ -1,0 +1,13 @@
+E:\GrandCircus\C#\DecisionMaking\DecisionMaking\bin\Debug\netcoreapp3.1\DecisionMaking.exe
+E:\GrandCircus\C#\DecisionMaking\DecisionMaking\bin\Debug\netcoreapp3.1\DecisionMaking.deps.json
+E:\GrandCircus\C#\DecisionMaking\DecisionMaking\bin\Debug\netcoreapp3.1\DecisionMaking.runtimeconfig.json
+E:\GrandCircus\C#\DecisionMaking\DecisionMaking\bin\Debug\netcoreapp3.1\DecisionMaking.runtimeconfig.dev.json
+E:\GrandCircus\C#\DecisionMaking\DecisionMaking\bin\Debug\netcoreapp3.1\DecisionMaking.dll
+E:\GrandCircus\C#\DecisionMaking\DecisionMaking\bin\Debug\netcoreapp3.1\DecisionMaking.pdb
+E:\GrandCircus\C#\DecisionMaking\DecisionMaking\obj\Debug\netcoreapp3.1\DecisionMaking.csprojAssemblyReference.cache
+E:\GrandCircus\C#\DecisionMaking\DecisionMaking\obj\Debug\netcoreapp3.1\DecisionMaking.AssemblyInfoInputs.cache
+E:\GrandCircus\C#\DecisionMaking\DecisionMaking\obj\Debug\netcoreapp3.1\DecisionMaking.AssemblyInfo.cs
+E:\GrandCircus\C#\DecisionMaking\DecisionMaking\obj\Debug\netcoreapp3.1\DecisionMaking.csproj.CoreCompileInputs.cache
+E:\GrandCircus\C#\DecisionMaking\DecisionMaking\obj\Debug\netcoreapp3.1\DecisionMaking.dll
+E:\GrandCircus\C#\DecisionMaking\DecisionMaking\obj\Debug\netcoreapp3.1\DecisionMaking.pdb
+E:\GrandCircus\C#\DecisionMaking\DecisionMaking\obj\Debug\netcoreapp3.1\DecisionMaking.genruntimeconfig.cache
